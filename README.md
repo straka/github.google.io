@@ -1,2 +1,1 @@
-# github.google.io
 test
